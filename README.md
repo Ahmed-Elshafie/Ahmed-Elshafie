@@ -89,8 +89,8 @@ A fully functional e-commerce store with product listing, cart, and checkout.
 
 ## 📫 Let's Connect  
 - 🌐 **Portfolio**: https://ahmed-elshafie.github.io/MY_PORTFOLIO/
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/ahmed-elshafie0/](#)  
-- 📧 **Email**: [a7med.3lshafei@gmail.com)
+- 💼 **LinkedIn**:  www.linkedin.com/in/ahmed-elshafie0   
+- 📧 **Email**: a7med.3lshafei@gmail.com
 
 ---
 
