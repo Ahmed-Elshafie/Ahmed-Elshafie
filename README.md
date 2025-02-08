@@ -1,6 +1,14 @@
-# Hi there, I'm Ahmed 👋  
+<h3 align="center">
+# Hi there, I'm Ahmed-Elshafie  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h3>
 
-I am a **Frontend React Developer** passionate about building user-friendly web interfaces and applications. I enjoy turning ideas into reality using clean code and modern technologies.
+👉 I am a **Frontend React Developer** passionate about building user-friendly web interfaces and applications. I enjoy turning ideas into reality using clean code and modern technologies.
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=React-driven%20frontend%20developer;Growth%20Through%20Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
 ---
 
