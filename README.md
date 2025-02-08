@@ -78,7 +78,7 @@ A fully functional e-commerce store with product listing, cart, and checkout.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"/>
   <img width="12" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="40" alt="Framer Motion logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg"height="40" alt="firebase logo" />
   <img width="12" />
